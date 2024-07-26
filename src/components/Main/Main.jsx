@@ -129,7 +129,7 @@ function Main() {
 
 //lets create a react hook to add a scroll animation....
 useEffect(()=>{
-  Aos.init({duration:2000})
+  Aos.init({duration:1000})
    },[])
 
 

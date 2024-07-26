@@ -62,7 +62,7 @@ function Footer() {
 
           <div className="footerLinks grid">
             {/* Group  One*/}
-            <div data-aos="fade-up" data-aos-duration="3000" className="linkGroup">
+            <div data-aos="fade-up" data-aos-duration="1000" className="linkGroup">
               <span className='groupTitle'>
                 OUR AGENCY
               </span>
@@ -90,7 +90,7 @@ function Footer() {
 
             </div>
             {/* Group  two*/}
-            <div data-aos="fade-up"  data-aos-duration="4000" className="linkGroup">
+            <div data-aos="fade-up"  data-aos-duration="1000" className="linkGroup">
               <span className='groupTitle'>
                 PARTNERS
               </span>
@@ -118,7 +118,7 @@ function Footer() {
 
             </div>
             {/* Group  three*/}
-            <div data-aos="fade-up"  data-aos-duration="5000" className="linkGroup">
+            <div data-aos="fade-up"  data-aos-duration="1000" className="linkGroup">
               <span className='groupTitle'>
                 LAST MINUTE
               </span>
